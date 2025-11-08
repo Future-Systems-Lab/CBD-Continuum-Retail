@@ -1,4 +1,5 @@
-![CBD Continuum Banner](assets/banner.jpg)
+![CBD Continuum Banner](assets/banner.png)
+
 
 
 
@@ -19,7 +20,7 @@ Under Meg’s direction, the space redefined community health culture—converti
 ## Public Health and Community Impact
 - **Education & Access:** Provided in-person consultations on holistic nutrition, amino acid therapy, and cannabinoid science.  
 - **Integrity & Quality Assurance:** Implemented voluntary **Good Manufacturing Practices (GMP)** in an unregulated CBD market.  
-- **Transparency:** Every in-house product was analyzed by independent third-party laboratories with published Certificates of Analysis (COAs).  
+- **Transparency:** Every in-house product was analyzed by independent third-party laboratories with published Certificates of Analysis ([Certificates of Analysis (COA)](https://drive.google.com/file/d/1tvREuhYeRJmxsUtvD9ZT1K9SloyoRu6Y/view?usp=sharing)).  
 - **Pandemic Response:** During COVID-19, organized a wellness delivery program for the sick and homebound.  
 - **Reputation:** Recognized locally for reducing stigma around natural medicine and improving the aesthetic and cultural tone of the neighborhood.  
 
