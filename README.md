@@ -15,11 +15,12 @@ The facility offered holistic, orthomolecular, and nutrition-based health soluti
 
 The product line was formulated to align with orthomolecular and evidence-based principles—each designed to target a specific physiological or emotional need using natural actives:
 
-- 🍏 [**Anxiety Relief — Apple (Quercetin)**](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/products/apple-quercetin.png): Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.  
-- 🫐 [**Mood Support — Mixed Berry (Anthocyanins)**](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/products/mixed-berry.png): Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.  
-- 🍋 [**Detox — Lemon (Citrus Bioflavonoids)**](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/products/lemon-detox.png): Promotes hepatic detoxification and immune resilience through vitamin C synergy.  
-- 🌙 [**Sleep — Blueberry & Lavender (CBN Blend)**](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/products/blueberry-lavender.jpg): Combines CBN isolate with lavender terpenes for circadian rhythm and restorative rest.  
-- 🍍 [**Smokable Nutrients — Pineapple (Bromelain Blend)**](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/products/pineapple-smokable.png): A non-tobacco herbal inhalable delivering bromelain, micronutrients, and terpenes for respiratory clarity and relaxation.  
+- 🍏 [**Anxiety Relief — Apple (Quercetin)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Apple%20flavor%20(1).png): Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.  
+- 🫐 [**Mood Support — Mixed Berry (Anthocyanins)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Berry%20flavor%20(1).png): Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.  
+- 🍋 [**Detox — Lemon (Citrus Bioflavonoids)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Lemon%20fl%20(1).png): Promotes hepatic detoxification and immune resilience through vitamin C synergy.  
+- 🌙 [**Sleep — Blueberry & Lavender (CBN Blend)**](CBD-Products/Gummies/CBD%20Gummies.jpg): Combines CBN isolate with lavender terpenes for circadian rhythm and restorative rest.  
+- 🍍 [**Smokable Nutrients — Pineapple (Bromelain Blend)**](CBD-Products/Flower/CBD%20Flower%20Label%20Print%20Files/): A non-tobacco herbal inhalable delivering bromelain, micronutrients, and terpenes for respiratory clarity and relaxation.  
+  
 
 
 Under Meg’s direction, the space redefined community health culture—converting a site once associated with smoking into a clean, educational, wellness-centered environment.
