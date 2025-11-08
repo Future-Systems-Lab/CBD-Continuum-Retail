@@ -1,3 +1,6 @@
+![CBD Continuum Banner](https://raw.githubusercontent.com/Future-Systems-Lab/CBD-Continuum-Retail/main/assets/banner.jpg)
+
+
 ![CBD Continuum Banner](assets/banner.png)
 
 
