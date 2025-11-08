@@ -15,6 +15,13 @@ The facility offered holistic, orthomolecular, and nutrition-based health soluti
 
 The product line was formulated to align with orthomolecular and evidence-based principles—each designed to target a specific physiological or emotional need using natural actives:
 
+**Sustainable Packaging & Materials**
+- 🌿 Hemp-based cartons and recyclable glass to reduce petroleum plastics.
+- ♻️ Eco-friendly, soy-based inks on FSC-certified stock for labels and inserts.
+- 🌱 Plant-derived adhesives and biodegradable void fill for shipping.
+- 🚚 Right-sized packaging and batch shipping to cut transport emissions.
+- 🔁 Reuse program guidance for bottles and droppers to extend lifecycle.
+
 - 🍏 [**Anxiety Relief — Apple (Quercetin)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Apple%20flavor.png): Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.  
 - 🫐 [**Mood Support — Mixed Berry (Anthocyanins)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Berry%20flavor.png): Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.  
 - 🍋 [**Detox — Lemon (Citrus Bioflavonoids)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Natural%20flavor%201500mg.png): Promotes hepatic detoxification and immune resilience through vitamin C synergy.  
