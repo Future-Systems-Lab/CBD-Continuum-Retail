@@ -1,6 +1,6 @@
 # CBD Continuum Retail
 
-![CBD Continuum Retail](Physical-Store/After-Renovation/CBD-Continuum1.jpeg)
+- [CBD Continuum Promo Video](https://drive.google.com/file/d/1koOIPsv1qisMgALO-iLipX4EwSCCIV8Y/view?usp=drive_link)
 
 ## Overview
 CBD Continuum was the first CBD wellness retail store in Apex, North Carolina.  
@@ -24,7 +24,6 @@ Following the physical store phase, operations transitioned online to expand acc
 - **After-Renovation:** final wellness center visuals and promotional footage  
 
 ## Watch the Renovation Videos
-- [CBD Continuum Promo Video](https://drive.google.com/file/d/1koOIPsv1qisMgALO-iLipX4EwSCCIV8Y/view?usp=drive_link)
 - [CBD Continuum Renovation Video](https://drive.google.com/file/d/12DX1lioI8tnjLkiJl87n667tCDM-1Y0a/view?usp=drive_link)
 
 ## Legacy
