@@ -27,5 +27,6 @@ Following the physical store phase, operations transitioned online to expand acc
 
 ## Watch the Renovation Videos
 🎥 [CBD Continuum Renovation Video — Google Drive Preview](https://drive.google.com/file/d/12DX1lioI8tnjLkiJl87n667tCDM-1Y0a/preview)
+
 🎥 [CBD Continuum Promo Video — Google Drive Preview](https://drive.google.com/file/d/1koOIPsv1qisMgALO-iLipX4EwSCCIV8Y/preview)  
 
