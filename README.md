@@ -1,4 +1,5 @@
-![CBD Continuum Banner](Physical-Store/After-Renovation/Photos/banner.jpg)
+![CBD Continuum Banner](assets/banner.jpg)
+
 
 
 ![CBD Continuum Banner](Physical-Store/After-Renovation/Photos/CBD-Continuum-Logo.jpg)
