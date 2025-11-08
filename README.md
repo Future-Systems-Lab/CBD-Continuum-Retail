@@ -54,6 +54,7 @@ All analytical test reports are archived and accessible for verification.
 Product pricing and margin documentation are maintained for educational and compliance review.  
 
 ### Design & Branding
+CBD Continuum emphasized sustainability by using bamboo containers, recycled glass packaging, and eco-friendly soy-based inks for all hemp flower and oil labels. These choices reflected the brand’s holistic values and commitment to environmentally responsible wellness.
 Product packaging, mock-ups, and label designs reflect the clean, evidence-based wellness brand identity.  
 [View Label and Mockups →](CBD-Products/Mockups/)
 
