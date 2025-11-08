@@ -43,20 +43,5 @@ Following the physical store phase, operations transitioned online to expand acc
 - [CBD Continuum Renovation Video — Google Drive Preview](https://drive.google.com/file/d/12DX1lioI8tnjLkiJl87n667tCDM-1Y0a/preview)
 - [CBD Continuum Promo Video — Google Drive Preview](https://drive.google.com/file/d/1koOIPsv1qisMgALO-iLipX4EwSCCIV8Y/preview)
 
-### Product Line and Formulation Rationale
 
-**Anxiety Relief — Apple (Quercetin):**  
-Formulated for calm and antioxidant support. Quercetin from apple extract modulates stress-related inflammation pathways and supports neuroprotection.
-
-**Mood Support — Mixed Berry (Anthocyanins):**  
-Designed for mild depression and cognitive clarity. Anthocyanin-rich berry compounds enhance monoamine balance and cerebral blood flow.
-
-**Detox — Lemon (Citrus Bioflavonoids):**  
-Targets detoxification and immune resilience through hepatic enzyme support and vitamin C synergy.
-
-**Sleep — Blueberry & Lavender (CBN Blend):**  
-Combines CBN isolate with anthocyanins and linalool from lavender to promote rest and circadian rhythm balance.
-
-**Smokable Nutrients — Pineapple (Bromelain Blend):**  
-Non-tobacco, plant-based inhalable delivering bromelain, terpenes, and micronutrients for respiratory clarity and mood stabilization.
 
