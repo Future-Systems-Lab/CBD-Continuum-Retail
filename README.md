@@ -1,3 +1,5 @@
+![CBD Continuum Banner](Physical-Store/After-Renovation/Photos/CBD-Continuum-Logo.jpg)
+
 # CBD Continuum Retail
 
 - [CBD Continuum Promo Video](https://drive.google.com/file/d/1koOIPsv1qisMgALO-iLipX4EwSCCIV8Y/view?usp=drive_link)
