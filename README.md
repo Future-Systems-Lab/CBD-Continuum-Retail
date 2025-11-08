@@ -50,7 +50,7 @@ All analytical test reports are archived and accessible for verification.
 [View COA Folder →](CBD-Products/COAs/)
 
 ### Pricing Transparency
-**Download:** [CBD Price Margins (XLSX)](CBD-Products/Pricing/CBD-Price-Margins.xlsx)
+**View Pricing:** [CBD Price Margins (PDF)](CBD-Products/Pricing/CBD-Price-Margins.pdf)
 Product pricing and margin documentation are maintained for educational and compliance review.  
 
 ### Design & Branding
