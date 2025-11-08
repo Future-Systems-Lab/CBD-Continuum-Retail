@@ -12,6 +12,14 @@ CBD Continuum was the first CBD wellness retail store in Apex, North Carolina.
 Founded and operated by Meg Montañez-Davenport, board certified in holistic nutrition (NANP/HNCB) with a doctoral background in naturopathic medicine and specialization in orthomolecular medicine, the business transformed a former smoke shop into a modern wellness facility introducing evidence-based, natural alternatives to the local community.  
 
 The facility offered holistic, orthomolecular, and nutrition-based health solutions, promoting plant-derived therapies as part of whole-person care.  
+
+The product line was formulated to align with orthomolecular and evidence-based principles—each designed to target a specific physiological or emotional need using natural actives:
+
+**Anxiety Relief — Apple (Quercetin):** Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.
+**Mood Support — Mixed Berry (Anthocyanins):** Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.
+**Detox — Lemon (Citrus Bioflavonoids):** Promotes hepatic detoxification and immune resilience through vitamin C synergy.
+**Sleep — Blueberry & Lavender (CBN Blend):** Combines CBN isolate with lavender terpenes for circadian rhythm and restorative rest.
+**Smokable Nutrients — Pineapple (Bromelain Blend):** A non-tobacco herbal inhalable delivering bromelain, micronutrients, and terpenes for respiratory clarity and relaxation.
 Under Meg’s direction, the space redefined community health culture—converting a site once associated with smoking into a clean, educational, wellness-centered environment.  
 
 ## Public Health and Community Impact
