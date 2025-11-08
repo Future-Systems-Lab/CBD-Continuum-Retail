@@ -15,11 +15,13 @@ The facility offered holistic, orthomolecular, and nutrition-based health soluti
 
 The product line was formulated to align with orthomolecular and evidence-based principles—each designed to target a specific physiological or emotional need using natural actives:
 
-- 🍏 [**Anxiety Relief — Apple (Quercetin)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Apple%20flavor%20(1).png): Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.  
-- 🫐 [**Mood Support — Mixed Berry (Anthocyanins)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Berry%20flavor%20(1).png): Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.  
-- 🍋 [**Detox — Lemon (Citrus Bioflavonoids)**](CBD-Products/Mockups/Tincture%20Mockup%20-%20Lemon%20fl%20(1).png): Promotes hepatic detoxification and immune resilience through vitamin C synergy.  
-- 🌙 [**Sleep — Blueberry & Lavender (CBN Blend)**](CBD-Products/Gummies/CBD%20Gummies.jpg): Combines CBN isolate with lavender terpenes for circadian rhythm and restorative rest.  
-- 🍍 [**Smokable Nutrients — Pineapple (Bromelain Blend)**](CBD-Products/Flower/CBD%20Flower%20Label%20Print%20Files/): A non-tobacco herbal inhalable delivering bromelain, micronutrients, and terpenes for respiratory clarity and relaxation.  
+- 🍏 [**Anxiety Relief — Apple (Quercetin)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Apple%20flavor.png): Formulated for calm and antioxidant support through modulation of inflammation and neuroprotection.  
+- 🫐 [**Mood Support — Mixed Berry (Anthocyanins)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Berry%20flavor.png): Designed for mild depression and cognitive clarity via anthocyanin-driven neurotransmitter balance.  
+- 🍋 [**Detox — Lemon (Citrus Bioflavonoids)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Natural%20flavor%201500mg.png): Promotes hepatic detoxification and immune resilience through vitamin C synergy.  
+- 🌙 [**Sleep — Blueberry & Lavender (CBN Blend)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Gummie%20Mock-Ups/Suncodes__Vegan-Gummies__BS-CBD__360mg__30ct__Blueberry-Lavender__Label__Mockup__v4.jpg): Combines CBN isolate with lavender terpenes for circadian rhythm and restorative rest.  
+- 🌼 [**Relaxation — Passionflower (Flavonoids)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Passionflower%20flavor.png): Supports calm focus and gentle relaxation through apigenin and flavonoid synergy.  
+- 🌿 [**Focus & Clarity — Peppermint (Menthol Blend)**](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/blob/main/CBD-Products/Mockups/CBD%20Oil%20Mock-Ups/Tincture%20Mockup%20-%20Peppermint%20flavor%201500mg.png): Refreshing terpene-based tincture promoting alertness and respiratory clarity.  
+
   
 
 
