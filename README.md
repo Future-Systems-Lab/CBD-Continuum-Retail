@@ -52,6 +52,7 @@ All analytical test reports are archived and accessible for verification.
 ### Pricing Transparency
 Product pricing and margin documentation are maintained for educational and compliance review.  
 [View Pricing →](CBD-Products/Pricing/)
+**Download:** [CBD Price Margins (XLSX)](CBD-Products/Pricing/CBD-Price-Margins.xlsx)
 
 ### Design & Branding
 Product packaging, mock-ups, and label designs reflect the clean, evidence-based wellness brand identity.  
