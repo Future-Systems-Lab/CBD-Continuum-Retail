@@ -17,7 +17,7 @@ Under Meg’s direction, the space redefined community health culture—converti
 - **Reputation:** Recognized locally for reducing stigma around natural medicine and improving the aesthetic and cultural tone of the neighborhood.  
 
 ## Evolution
-Following the physical store phase, operations transitioned online to expand access to verified formulations and to begin developing the **digital health and blockchain ecosystem** that evolved into **Future Systems Lab** projects such as *EncryptHealth* and *HypnoNeuro*.  
+Following the physical store phase, operations transitioned online to expand access to verified formulations and to begin developing the **digital health and blockchain ecosystem** that evolved into **Future Systems Lab** projects such as [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) and [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro).
 
 ## Structure
 - **Before-Renovation:** original site photos and videos documenting transformation  
