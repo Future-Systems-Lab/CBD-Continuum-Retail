@@ -56,3 +56,6 @@ Product pricing and margin documentation are maintained for educational and comp
 ### Design & Branding
 Product packaging, mock-ups, and label designs reflect the clean, evidence-based wellness brand identity.  
 [View Label and Mockups →](CBD-Products/Mockups/)
+
+**Download:**  
+[CBD Price Margins (XLSX)](CBD-Products/Pricing/CBD-Price-Margins.xlsx)
